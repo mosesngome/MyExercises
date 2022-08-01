@@ -1,0 +1,16 @@
+.home_img {
+  width: 200px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+.Penguins {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+.home {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}

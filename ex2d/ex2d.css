@@ -1,0 +1,22 @@
+.gets {
+  background-color: lightslategray;
+  color: white;
+  width: 150px;
+  border-radius: 6px;
+  border: none;
+  height: 35px;
+  font-size: 12pt;
+  font-weight: bold;
+  margin-right: 6px;
+}
+.downl {
+  background-color: white;
+  color: black;
+  width: 150px;
+  border-width: 1px;
+  border-radius: 6px;
+  border-color: black;
+  height: 35px;
+  font-size: 12pt;
+  font-weight: bold;
+}
